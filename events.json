@@ -1,0 +1,30 @@
+[
+  {
+    "repo": "github/docs",
+    "html_url": "https://github.com/github/docs",
+    "description": "The open-source docs for GitHub",
+    "stargazer": "Arbit",
+    "starred_at": "2026-07-20T10:00:00Z"
+  },
+  {
+    "repo": "microsoft/vscode",
+    "html_url": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code, the code editor that runs everywhere",
+    "stargazer": "Arbit",
+    "starred_at": "2026-06-14T18:30:00Z"
+  },
+  {
+    "repo": "freeCodeCamp/freeCodeCamp",
+    "html_url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "A free and open-source curriculum for learning web development",
+    "stargazer": "Arbit",
+    "starred_at": "2026-05-08T09:15:00Z"
+  },
+  {
+    "repo": "octocat/hello-world",
+    "html_url": "https://github.com/octocat/hello-world",
+    "description": "A simple starter repository for learning GitHub",
+    "stargazer": "Arbit",
+    "starred_at": "2026-04-22T13:45:00Z"
+  }
+]
